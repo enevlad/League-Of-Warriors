@@ -1,9 +1,7 @@
 # README
 
-**Author: Ene Vlad-Mihnea**
-**Group: 321CC**
-
---
+- **Author: Ene Vlad-Mihnea**
+- **Group: 321CC**
 
 ## Project Overview
 
